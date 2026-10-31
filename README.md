@@ -4,7 +4,7 @@
   <p>Building scalable web applications, hardware-integrated IoT solutions, and decentralized apps.</p>
 
   <a href="https://darshanh.online" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-darshanh.me-00E5FF?style=for-the-badge&logo=Web&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-darshanh.online-00E5FF?style=for-the-badge&logo=Web&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/darshanh2005/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
