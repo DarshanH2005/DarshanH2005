@@ -3,7 +3,7 @@
   <h3>Software Engineer | AI & Cyber-Physical Systems | MERN Stack Developer</h3>
   <p>Building scalable web applications, hardware-integrated IoT solutions, and decentralized apps.</p>
 
-  <a href="https://darshanh.me" target="_blank">
+  <a href="https://darshanh.online" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-darshanh.me-00E5FF?style=for-the-badge&logo=Web&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/darshanh2005/" target="_blank">
